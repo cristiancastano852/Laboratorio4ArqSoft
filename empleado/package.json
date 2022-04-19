@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.0.0-rc.2",
+    "react-router-dom": "^6.3.0"
+  }
+}
